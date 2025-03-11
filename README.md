@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Front-end Developer
 -------------------
 
-I'm a 22-year-old technology enthusiast from Castelbuono(Italy,Sicily,PA), I have a deep fascination with all things tech and I'm always eager to explore and learn more. I'm currently diving deep into the world of Web Development. I love the problem-solving aspect of coding, and the amazing things that can be built starting from just a few lines of code. I believe in the power of technology to transform and improve the lives of people around the world, and I'm excited to be part of this ongoing digital revolution.
+I'm a 23-year-old technology enthusiast from Castelbuono(Italy,Sicily,PA), I have a deep fascination with all things tech and I'm always eager to explore and learn more. I'm currently diving deep into the world of Web Development. I love the problem-solving aspect of coding, and the amazing things that can be built starting from just a few lines of code. I believe in the power of technology to transform and improve the lives of people around the world, and I'm excited to be part of this ongoing digital revolution.
 
 * 🌍  I'm based in Castelbuono, PA
 * ✉️  You can contact me at [restivoalessio22@gmail.com](mailto:restivoalessio22@gmail.com)
